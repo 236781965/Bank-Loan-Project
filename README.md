@@ -25,6 +25,7 @@ Assess Borrower Health:
 
 Calculate the average Debt-to-Income (DTI) ratio to assess the financial health of borrowers.
 Monitor MTD and MoM fluctuations to ensure sustainable lending.
+
 Visualizations & Insights:
 Create visual representations that allow users to easily track and interpret the data:
 Monthly Trends to spot seasonality and trends.
